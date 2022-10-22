@@ -19,10 +19,10 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <Link to="https://github.com/SkyWorldStudio">Contact</Link>
+          <a href="https://github.com/SkyWorldStudio">Contact</a>
         </li>
         <li>
-          <Link to="https://skyworldstudio.top">About us</Link>
+          <a href="https://skyworldstudio.top">About us</a>
         </li>
       </ul>
     </nav>
